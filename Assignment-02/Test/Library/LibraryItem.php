@@ -1,6 +1,6 @@
 <?php
 
-namespace Assignment02\Test;
+namespace Library;
 
 abstract class LibraryItem
 {
