@@ -6,11 +6,11 @@ class Book
 {
     public $title;
 
-    public function set(string $title){
+    public function setTitle(string $title){
         $this->title = $title;
     }
 
-    public function get(){
+    public function getTitle(){
         return $this->title;
     }
 }
